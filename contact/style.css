@@ -6,3 +6,9 @@ section img {
     height: 100%;
     display: block;
 }
+
+.contactLinks a{
+    display: inline-block;
+    border-bottom: 2px solid var(--red);
+    margin-bottom: 1rem;
+}

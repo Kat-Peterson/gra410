@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="11.994092mm"
+   height="11.9941mm"
+   viewBox="0 0 11.994092 11.9941"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(538.24208,-104.67113)">
+    <path
+       id="rect852"
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m -2020.6855,395.60742 c -7.5421,0 -13.6153,6.07315 -13.6153,13.61524 v 18.10351 c 0,7.54209 6.0732,13.61328 13.6153,13.61328 h 18.1035 c 7.5421,0 13.6133,-6.07119 13.6132,-13.61328 v -18.10351 c 0,-7.54209 -6.0711,-13.61524 -13.6132,-13.61524 z m -0.2207,3.71875 h 18.5429 c 5.3603,0 9.6758,4.31547 9.6758,9.67578 v 18.54297 c 0,5.36035 -4.3155,9.67578 -9.6758,9.67578 h -18.5429 c -5.3604,0 -9.6758,-4.31543 -9.6758,-9.67578 v -18.54297 c 0,-5.36031 4.3154,-9.67578 9.6758,-9.67578 z m 21.3769,3.47266 a 2.968335,2.968335 0 0 0 -2.9414,2.96679 2.968335,2.968335 0 0 0 2.9687,2.96876 2.968335,2.968335 0 0 0 2.9668,-2.96876 2.968335,2.968335 0 0 0 -2.9668,-2.96679 2.968335,2.968335 0 0 0 -0.027,0 z m -12.1074,3.42187 a 12.053571,12.053571 0 0 0 -12.0528,12.05274 12.053571,12.053571 0 0 0 12.0528,12.05273 12.053571,12.053571 0 0 0 12.0547,-12.05273 12.053571,12.053571 0 0 0 -12.0547,-12.05274 z m 0,3.70508 a 8.3482144,8.3482144 0 0 1 8.3476,8.34766 8.3482144,8.3482144 0 0 1 -8.3476,8.34765 8.3482144,8.3482144 0 0 1 -8.3477,-8.34765 8.3482144,8.3482144 0 0 1 8.3477,-8.34766 z"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
