@@ -41,6 +41,11 @@ h3 {
 	padding: 0.25rem 0;
 }
 
+h6 {
+	font-size: .8rem !important;
+	font-weight: 400 !important;
+}
+
 /* desktop header */
 header.desktop {
 	text-align: center;
